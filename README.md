@@ -23,7 +23,7 @@ Apresentar de forma simples e prática as diferentes trilhas profissionais na á
 - [HTML e CSS (balta.io)](https://balta.io/cursos/fundamentos-html-css)
 - [O que um Analista de Sistemas faz? (Código Fonte TV - YouTube)](https://www.youtube.com/watch?v=5K7OGSsWlzU)
 
-👤 **Contatos de referência:**  
+👤 **Contato de referência:**  
 [Ricardo Henrique Piza – Analista de Sistemas na Teadit.](https://www.linkedin.com/in/ricardo-henrique-piza-a31ab0209/)
 
 ---
